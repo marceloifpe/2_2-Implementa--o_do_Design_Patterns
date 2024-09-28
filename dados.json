@@ -1,0 +1,49 @@
+{
+    "jogadores": [
+        {
+            "nome": "Edson",
+            "cor": "Vermelho",
+            "objetivo": "Conquistar 18 territ\u00f3rios",
+            "territorios": [
+                "Territ\u00f3rio1",
+                "Territ\u00f3rio5"
+            ],
+            "exercitos": 5,
+            "cartas": [
+                "Infantaria",
+                "Infantaria",
+                "Infantaria"
+            ]
+        },
+        {
+            "nome": "Marcelo",
+            "cor": "Azul",
+            "objetivo": "Conquistar a Europa, Am\u00e9rica do Sul e um terceiro continente",
+            "territorios": [
+                "Territ\u00f3rio2",
+                "Territ\u00f3rio6"
+            ],
+            "exercitos": 5,
+            "cartas": [
+                "Artilharia",
+                "Infantaria",
+                "Artilharia"
+            ]
+        },
+        {
+            "nome": "Pedro",
+            "cor": "Verde",
+            "objetivo": "Conquistar a \u00c1sia e a Am\u00e9rica do Sul",
+            "territorios": [
+                "Territ\u00f3rio4",
+                "Territ\u00f3rio3"
+            ],
+            "exercitos": 5,
+            "cartas": [
+                "Infantaria",
+                "Infantaria",
+                "Cavalaria"
+            ]
+        }
+    ]
+}
